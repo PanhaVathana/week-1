@@ -1,0 +1,6 @@
+#exercise 2
+
+width=int(input("Enter the width of room :"))
+length=int(input("Enter the length of room :"))
+area=width*length
+print("The area of room : ",area)

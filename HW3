@@ -1,0 +1,5 @@
+#exercise 3
+
+width_length=43.560
+area=f"there are {width_length}square in an acre."
+print(area)
